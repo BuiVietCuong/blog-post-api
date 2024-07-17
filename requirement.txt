@@ -1,0 +1,13 @@
+flask_jwt_extended
+structlog
+flask
+marshmallow
+deepdiff
+sqlalchemy
+flask_migrate
+flask_sqlalchemy
+bson
+# unittest
+# urllib
+# http
+# base64

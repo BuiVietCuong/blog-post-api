@@ -1,0 +1,1 @@
+JWT_SECRET_KEY = "123" # TODO: Save in env vars or cloud
